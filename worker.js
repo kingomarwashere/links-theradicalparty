@@ -441,16 +441,6 @@ const HTML = `<!DOCTYPE html>
       <span class="arrow">→</span>
     </a>
 
-    <a class="card" href="https://najflix.theradicalparty.com" target="_blank" rel="noopener">
-      <div class="icon">📺</div>
-      <div class="info">
-        <strong>Najflix</strong>
-        <span>najflix.theradicalparty.com</span>
-      </div>
-      <span class="badge badge-app">app</span>
-      <span class="arrow">→</span>
-    </a>
-
   </div>
 
   <div class="footer">
