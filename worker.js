@@ -421,6 +421,16 @@ const HTML = `<!DOCTYPE html>
       <span class="arrow">→</span>
     </a>
 
+    <a class="card" href="https://busted.theradicalparty.com" target="_blank" rel="noopener">
+      <div class="icon">💥</div>
+      <div class="info">
+        <strong>Busted</strong>
+        <span>busted.theradicalparty.com</span>
+      </div>
+      <span class="badge badge-fun">fun</span>
+      <span class="arrow">→</span>
+    </a>
+
     <a class="card" href="https://android.theradicalparty.com" target="_blank" rel="noopener">
       <div class="icon">🤖</div>
       <div class="info">
