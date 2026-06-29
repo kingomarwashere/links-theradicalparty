@@ -411,17 +411,7 @@ const HTML = `<!DOCTYPE html>
       <span class="arrow">→</span>
     </a>
 
-    <a class="card" href="https://chuckasickie.theradicalparty.com" target="_blank" rel="noopener">
-      <div class="icon">🤙</div>
-      <div class="info">
-        <strong>Chuckasickie</strong>
-        <span>chuckasickie.theradicalparty.com</span>
-      </div>
-      <span class="badge badge-fun">fun</span>
-      <span class="arrow">→</span>
-    </a>
-
-    <a class="card" href="https://plausibledeniability.theradicalparty.com" target="_blank" rel="noopener">
+<a class="card" href="https://plausibledeniability.theradicalparty.com" target="_blank" rel="noopener">
       <div class="icon">🙈</div>
       <div class="info">
         <strong>Plausible Deniability</strong>
